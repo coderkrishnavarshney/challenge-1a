@@ -1,0 +1,5 @@
+{
+  "accuracy": 0.9923333333333333,
+  "macro_f1": 0.9922690595136353,
+  "report": "              precision    recall  f1-score   support\n\n          H1       0.98      1.00      0.99       500\n          H2       1.00      1.00      1.00       500\n          H3       0.99      1.00      0.99       500\n          H4       1.00      1.00      1.00       500\n        body       1.00      0.95      0.98       500\n       title       0.99      1.00      1.00       500\n\n    accuracy                           0.99      3000\n   macro avg       0.99      0.99      0.99      3000\nweighted avg       0.99      0.99      0.99      3000\n"
+}

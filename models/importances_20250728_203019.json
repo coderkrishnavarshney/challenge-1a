@@ -1,0 +1,326 @@
+[
+  {
+    "feature": "font_size_14.039999961853027",
+    "importance": 0.0857366994023323
+  },
+  {
+    "feature": "font_style_Arial-BoldMT",
+    "importance": 0.0669848769903183
+  },
+  {
+    "feature": "font_size_15.308159828186035",
+    "importance": 0.05773082375526428
+  },
+  {
+    "feature": "has_hash_or_colon_1",
+    "importance": 0.05678354948759079
+  },
+  {
+    "feature": "font_size_9.0",
+    "importance": 0.055611349642276764
+  },
+  {
+    "feature": "font_size_15.960000038146973",
+    "importance": 0.05484522506594658
+  },
+  {
+    "feature": "font_size_12.0",
+    "importance": 0.049081068485975266
+  },
+  {
+    "feature": "font_size_20.040000915527344",
+    "importance": 0.04178258404135704
+  },
+  {
+    "feature": "font_size_26.40279960632324",
+    "importance": 0.026334591209888458
+  },
+  {
+    "feature": "font_style_Helvetica-Bold",
+    "importance": 0.025572706013917923
+  },
+  {
+    "feature": "font_size_6.0",
+    "importance": 0.025223882868885994
+  },
+  {
+    "feature": "font_size_11.039999961853027",
+    "importance": 0.022104699164628983
+  },
+  {
+    "feature": "font_size_11.670000076293944",
+    "importance": 0.021242396906018257
+  },
+  {
+    "feature": "font_style_Trebuchet MS",
+    "importance": 0.02077789232134819
+  },
+  {
+    "feature": "font_style_Helvetica",
+    "importance": 0.020723309367895126
+  },
+  {
+    "feature": "font_size_9.960000038146973",
+    "importance": 0.020523661747574806
+  },
+  {
+    "feature": "is_bold_0",
+    "importance": 0.020326822996139526
+  },
+  {
+    "feature": "font_size_9.744400024414062",
+    "importance": 0.01600155606865883
+  },
+  {
+    "feature": "is_bold_1",
+    "importance": 0.01569872722029686
+  },
+  {
+    "feature": "has_hash_or_colon_0",
+    "importance": 0.01533189695328474
+  },
+  {
+    "feature": "font_style_Times-Roman",
+    "importance": 0.0142062958329916
+  },
+  {
+    "feature": "font_style_ArialMT",
+    "importance": 0.014144809916615486
+  },
+  {
+    "feature": "font_size_7.559999942779541",
+    "importance": 0.013274824246764183
+  },
+  {
+    "feature": "font_size_24.0",
+    "importance": 0.013121572323143482
+  },
+  {
+    "feature": "font_size_32.040000915527344",
+    "importance": 0.01277163252234459
+  },
+  {
+    "feature": "font_style_Arial,Bold",
+    "importance": 0.011956564150750637
+  },
+  {
+    "feature": "font_style_Arial-Black",
+    "importance": 0.011461308225989342
+  },
+  {
+    "feature": "font_style_Tahoma-Bold",
+    "importance": 0.009885367937386036
+  },
+  {
+    "feature": "page_14",
+    "importance": 0.009853341616690159
+  },
+  {
+    "feature": "page_3",
+    "importance": 0.00903303548693657
+  },
+  {
+    "feature": "page_1",
+    "importance": 0.008660206571221352
+  },
+  {
+    "feature": "font_style_Symbol",
+    "importance": 0.008533951826393604
+  },
+  {
+    "feature": "case_sensitive_0",
+    "importance": 0.0084849763661623
+  },
+  {
+    "feature": "is_numbered_0",
+    "importance": 0.008464572951197624
+  },
+  {
+    "feature": "spacing",
+    "importance": 0.008425850421190262
+  },
+  {
+    "feature": "case_sensitive_1",
+    "importance": 0.008225366473197937
+  },
+  {
+    "feature": "is_caps_0",
+    "importance": 0.008197912946343422
+  },
+  {
+    "feature": "font_style_Arial-BoldItalicMT",
+    "importance": 0.008100572973489761
+  },
+  {
+    "feature": "page_4",
+    "importance": 0.007478062529116869
+  },
+  {
+    "feature": "font_size_11.007583618164062",
+    "importance": 0.007439212873578072
+  },
+  {
+    "feature": "is_centered_0",
+    "importance": 0.006951047573238611
+  },
+  {
+    "feature": "page_5",
+    "importance": 0.006918518338352442
+  },
+  {
+    "feature": "font_style_Calibri",
+    "importance": 0.006564949173480272
+  },
+  {
+    "feature": "page_8",
+    "importance": 0.006328077055513859
+  },
+  {
+    "feature": "is_centered_1",
+    "importance": 0.006243801210075617
+  },
+  {
+    "feature": "page_2",
+    "importance": 0.004975078161805868
+  },
+  {
+    "feature": "indent",
+    "importance": 0.004670914728194475
+  },
+  {
+    "feature": "font_style_Arial",
+    "importance": 0.004393872804939747
+  },
+  {
+    "feature": "page_7",
+    "importance": 0.004157078918069601
+  },
+  {
+    "feature": "font_style_Tahoma",
+    "importance": 0.004005742259323597
+  },
+  {
+    "feature": "page_9",
+    "importance": 0.003944613039493561
+  },
+  {
+    "feature": "page_6",
+    "importance": 0.0038188432808965445
+  },
+  {
+    "feature": "is_caps_1",
+    "importance": 0.0037306060548871756
+  },
+  {
+    "feature": "is_numbered_1",
+    "importance": 0.0035662869922816753
+  },
+  {
+    "feature": "font_size_28.00721549987793",
+    "importance": 0.0023939504753798246
+  },
+  {
+    "feature": "page_12",
+    "importance": 0.0020905809942632914
+  },
+  {
+    "feature": "font_style_Arial-ItalicMT",
+    "importance": 0.0017320611514151096
+  },
+  {
+    "feature": "page_10",
+    "importance": 0.001441756496205926
+  },
+  {
+    "feature": "page_11",
+    "importance": 0.0010579063091427088
+  },
+  {
+    "feature": "font_style_Calibri-Bold",
+    "importance": 0.0004509480204433203
+  },
+  {
+    "feature": "font_style_Sniglet-Regular",
+    "importance": 0.00042564343311823905
+  },
+  {
+    "feature": "font_size_7.20074987411499",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_7.229546546936035",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_7.427609920501709",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_9.401000022888184",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_11.508949279785156",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_12.004799842834473",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_12.401399612426758",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_12.413744926452637",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_14.011449813842772",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_15.310199737548828",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_18.0",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_18.025842666625977",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_size_26.66584587097168",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_style_Arial-BlackItalic",
+    "importance": 0.0
+  },
+  {
+    "feature": "font_style_ComicSansMS",
+    "importance": 0.0
+  },
+  {
+    "feature": "is_email_0",
+    "importance": 0.0
+  },
+  {
+    "feature": "is_email_1",
+    "importance": 0.0
+  },
+  {
+    "feature": "is_phone_number_0",
+    "importance": 0.0
+  },
+  {
+    "feature": "is_phone_number_1",
+    "importance": 0.0
+  },
+  {
+    "feature": "page_13",
+    "importance": 0.0
+  }
+]
